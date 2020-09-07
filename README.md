@@ -6,8 +6,6 @@
 4. Bayesian Inference and Applications
 5. Multivariable Calculus
 
-I am a G1 student.
-
 A place to play with `git`.
 
 ### Fall 2020
