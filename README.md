@@ -1,5 +1,5 @@
 # Playground
-## Courses:
+## Mark is taking these courses:
 1. Systems Development for Computational Science
 2. Introduction to Data Science
 3. Artificial Intelligence
