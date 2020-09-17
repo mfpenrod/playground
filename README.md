@@ -1,4 +1,5 @@
-# Harry Stylesi is editing the README.md file!!!
-  * Adding a bullet here to practice Markdown
+# Mark Penrod is editing the README.md file!!!
 
-These are Mark's edits that will cause a merge conflict
+These are Mark's edits that will cause a merge conflict.
+
+More edits
